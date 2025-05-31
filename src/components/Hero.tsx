@@ -24,17 +24,19 @@ export const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto animate-fade-in">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          Shree Enterprises
+          <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
+            Shree Enterprises
+          </span>
         </h1>
-        <p className="text-xl md:text-2xl mb-4 text-gray-200 font-light">
-          Excellence Quality • Reliability Trust
+        <p className="text-xl md:text-2xl mb-4 text-blue-200 font-light tracking-wide">
+          Sourcing Quality • Delivering Trust
         </p>
         <p className="text-lg md:text-xl mb-8 text-gray-300 max-w-2xl mx-auto">
           Leading provider of industrial chemicals, excipients, pharmaceuticals, and innovative business solutions
         </p>
         <Button 
           onClick={scrollToContact}
-          className="bg-white text-shree-blue hover:bg-gray-100 text-lg px-8 py-6 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 shadow-xl"
+          className="bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600 text-white text-lg px-8 py-6 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 shadow-xl border-0"
         >
           Enquire Online
         </Button>
