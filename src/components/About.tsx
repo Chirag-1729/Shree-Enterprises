@@ -6,7 +6,7 @@ export const About = () => {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-shree-blue mb-6">
-              About Shree Enterprises
+              About Shree Ventures
             </h2>
             <div className="w-24 h-1 bg-shree-light-blue mx-auto mb-8"></div>
           </div>
@@ -14,7 +14,7 @@ export const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-in">
               <img 
-                src="/lovable-uploads/4406e2c3-bf49-43fe-b0bc-c1678859e628.png"
+                src="/lovable-uploads/ChemicalFac.jpg"
                 alt="Industrial Chemical Facility"
                 className="w-full rounded-lg shadow-xl"
               />
@@ -26,15 +26,15 @@ export const About = () => {
               </h3>
               
               <p className="text-shree-gray text-lg leading-relaxed">
-                Based in the United Kingdom, Shree Enterprises is dedicated to sourcing high-quality products such as industrial chemicals, excipients, natural oils and extracts, fragrances, flavors, and more. Our goal is to connect manufacturers with the finest materials from a diverse range of channels.
+                Based in the United Kingdom, Shree Ventures is dedicated to sourcing high-quality products such as industrial chemicals, excipients, natural oils and extracts, fragrances, flavors, and more. Our goal is to connect manufacturers with the finest materials from a diverse range of channels.
               </p>
 
               <p className="text-shree-gray text-lg leading-relaxed">
-                At Shree Enterprises, we are committed to excellence and uncompromising standards. Our team of competitive and experienced professionals leverages their deep expertise to meet the unique needs of our customers. By utilizing their valuable knowledge, they ensure maximum customer satisfaction and strive to deliver only the best quality products.
+                At Shree Ventures, we are committed to excellence and uncompromising standards. Our team of competitive and experienced professionals leverages their deep expertise to meet the unique needs of our customers. By utilizing their valuable knowledge, they ensure maximum customer satisfaction and strive to deliver only the best quality products.
               </p>
 
               <p className="text-shree-gray text-lg leading-relaxed">
-                We take pride in our relentless pursuit of sourcing the highest quality products from various sources, ensuring that our clients receive nothing but the best. Trust Shree Enterprises for reliable, top-tier sourcing solutions that support your manufacturing needs.
+                We take pride in our relentless pursuit of sourcing the highest quality products from various sources, ensuring that our clients receive nothing but the best. Trust Shree Ventures for reliable, top-tier sourcing solutions that support your manufacturing needs.
               </p>
             </div>
           </div>

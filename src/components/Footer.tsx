@@ -15,7 +15,7 @@ export const Footer = () => {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             {/* Company Info */}
             <div>
-              <h3 className="text-xl font-bold mb-4">Shree Enterprises</h3>
+              <h3 className="text-xl font-bold mb-4">Shree Ventures</h3>
               <p className="text-gray-300 mb-4">
                 Leading provider of industrial chemicals, excipients, pharmaceuticals, and innovative business solutions in the UK.
               </p>
@@ -70,7 +70,7 @@ export const Footer = () => {
                 <div className="flex items-center space-x-2">
                   <span>📧</span>
                   <a href="mailto:info@shree-enterprises.co.uk" className="hover:text-white transition-colors duration-300">
-                    info@shree-enterprises.co.uk
+                    info@shree-ventures.co.uk
                   </a>
                 </div>
                 <div className="flex items-center space-x-2">
@@ -89,7 +89,7 @@ export const Footer = () => {
           <div className="border-t border-gray-600 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-gray-300 text-sm mb-4 md:mb-0">
-                Copyright © 2024 Shree Enterprises - All Rights Reserved.
+                Copyright © 2024 Shree Ventures - All Rights Reserved.
               </p>
               <div className="flex space-x-6">
                 <button 

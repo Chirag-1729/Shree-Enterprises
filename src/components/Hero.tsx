@@ -25,7 +25,7 @@ export const Hero = () => {
       <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto animate-fade-in">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-            Shree Enterprises
+            Shree Ventures
           </span>
         </h1>
         <p className="text-xl md:text-2xl mb-4 text-blue-200 font-light tracking-wide">

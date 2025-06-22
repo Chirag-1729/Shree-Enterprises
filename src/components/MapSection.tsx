@@ -76,7 +76,7 @@ export const MapSection = () => {
                   allowFullScreen={true}
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Shree Enterprises Location"
+                  title="Shree Ventures Location"
                   className="w-full"
                 ></iframe>
               </div>

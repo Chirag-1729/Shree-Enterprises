@@ -3,12 +3,12 @@ export const Services = () => {
   const services = [
     {
       title: "Business Solutions",
-      description: "At Shree Enterprises, we offer a wide range of effective and innovative business solutions designed to tackle the complex challenges of today's industry. Our services include workplace service management and data & analytics. Leveraging competitive technology, our skilled",
+      description: "At Shree Ventures, we offer a wide range of effective and innovative business solutions designed to tackle the complex challenges of today's industry. Our services include workplace service management and data & analytics. Leveraging competitive technology, our skilled",
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&h=300&fit=crop"
     },
     {
       title: "Logistics Support",
-      description: "At Shree Enterprises, we promise to deliver excellent and timely service in the most efficient and cost-effective way. By blending effective planning, strategy, and management with remarkable execution, we analyze, manage, and implement the entire supply chain.",
+      description: "At Shree Ventures, we promise to deliver excellent and timely service in the most efficient and cost-effective way. By blending effective planning, strategy, and management with remarkable execution, we analyze, manage, and implement the entire supply chain.",
       image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop"
     },
     {
@@ -18,7 +18,7 @@ export const Services = () => {
     },
     {
       title: "Technical Support",
-      description: "At Shree Enterprises, our team of experienced professionals is dedicated to providing exceptional technical and application support to our clients.",
+      description: "At Shree Ventures, our team of experienced professionals is dedicated to providing exceptional technical and application support to our clients.",
       image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&h=300&fit=crop"
     }
   ];
@@ -28,7 +28,7 @@ export const Services = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-shree-blue mb-6">
-            WELCOME TO SHREE ENTERPRISES TRADING
+            WELCOME TO Shree Ventures TRADING
           </h2>
           <div className="w-24 h-1 bg-shree-light-blue mx-auto mb-8"></div>
         </div>

@@ -91,7 +91,7 @@ export const Contact = () => {
               <div className="grid md:grid-cols-2 gap-8">
                 <div>
                   <h4 className="text-xl font-bold text-shree-blue mb-4">
-                    Shree Enterprises Trading Limited<br />
+                    Shree Ventures Trading Limited<br />
                     (S.E.T.L)
                   </h4>
                   <p className="text-shree-gray mb-4">
@@ -122,7 +122,7 @@ export const Contact = () => {
                   <div className="mt-6">
                     <p className="text-shree-blue font-semibold">For All Enquiries</p>
                     <a href="mailto:info@shree-enterprises.co.uk" className="text-shree-blue hover:underline">
-                      info@shree-enterprises.co.uk
+                      info@shree-ventures.co.uk
                     </a>
                     <p className="text-shree-gray mt-2">Tel: 073 868 53 858</p>
                   </div>
